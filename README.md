@@ -11,7 +11,7 @@ Simple API to display and add famous quotes using EXPRESS and JS.
 
 ## Live Demo
 
-[Live Demo Link](https://library-dc5ff.web.app/) :point_left:
+[Live Demo Link](https://javitocor.github.io/Quotes-Express-JS/) :point_left:
 
 ## Getting Started
 - Follow the live demo link and enjoy the site adding quotes to it.

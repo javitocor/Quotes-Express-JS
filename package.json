@@ -4,6 +4,7 @@
   "description": "A small quote-serving JSON API.",
   "main": "server.js",
   "scripts": {
+    "deploy": "gh-pages -d start",
     "start": "node server.js"
   },
   "author": "Javier Correas",
