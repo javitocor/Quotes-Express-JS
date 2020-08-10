@@ -1,5 +1,5 @@
-## LIBRARY WITH FIREBASE
-The previous project Library from The Odin Project updated to use Firebase cloud database and Firebase Hosting.
+# Quotes-Express-JS
+Simple API to display and add famous quotes using EXPRESS and JS.
 
 ![screenshot](./screenshot.png)
 ## Built With
@@ -7,14 +7,14 @@ The previous project Library from The Odin Project updated to use Firebase cloud
 - HTML 
 - CSS
 - JAVASCRIPT
-- FIREBASE
+- EXPRESS
 
 ## Live Demo
 
 [Live Demo Link](https://library-dc5ff.web.app/) :point_left:
 
 ## Getting Started
-- Follow the live demo link and enjoy the site adding books to it.
+- Follow the live demo link and enjoy the site adding quotes to it.
 
 ### Usage
 - To get a local copy up and running follow these simple example steps.
@@ -37,7 +37,7 @@ Clone the repository unto your local machine cd to the folder.
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/javitocor/Library-JS-FIREBASE/issues).
+Feel free to check the [issues page](https://github.com/javitocor/Quotes-Express-JS/issues).
 
 ## Show your support
 
@@ -45,10 +45,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments 🚀
 
-- Firebase
-- The Odin Project
-- Google
-- Codelabs
+- Express
+- Codeacademy
 
 ## License
 MIT LICENSE
