@@ -7,7 +7,7 @@
     "start": "node server.js"
   },
   "author": "Javier Correas",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
   }
